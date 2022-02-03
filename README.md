@@ -18,5 +18,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40" style="max-width:100%;"></img>
 
+##
   ![Snake animation](https://github.com/Pedro-Gros/Pedro-Gros/blob/output/github-contribution-grid-snake.svg)
 
